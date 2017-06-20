@@ -44,3 +44,5 @@ addSbtPlugin("com.timushev.sbt" % "sbt-updates" % "0.3.0") // dependencyUpdates
 addSbtPlugin("com.typesafe.sbt" % "sbt-scalariform" % "1.3.0") // scalariformFormat
 
 addSbtPlugin("com.github.xuwei-k" % "sbt-class-diagram" % "0.1.7")
+
+addSbtPlugin("com.github.tkawachi" % "sbt-lock" % "0.3.0")
